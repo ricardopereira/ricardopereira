@@ -6,4 +6,4 @@ Everyone should invest on their financial literacy and [**Money**](https://apps.
 
 I also dedicate my spare time to patients with Primary Immunodeficiency. I'm the current president and CEO of [APDIP.pt](https://apdip.pt). I have a PID called Agammaglobulinemia/Bruton.
 
-<a href="https://www.buymeacoffee.com/ricardopereira" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px" ></a>
+<a href="https://www.buymeacoffee.com/ricardopereira" target="_blank"><img src="https://github.com/ricardopereira/ricardopereira.github.io/blob/master/img/buy-me-a-coffee.png?raw=true" alt="Buy Me A Coffee" style="height: 60px; width: 217px" ></a>
